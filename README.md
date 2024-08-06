@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.apache.cocoon -DarchetypeArtifactId=cocoon-22-archetype-block -DarchetypeVersion=1.0.0 -DgroupId=com.example -DartifactId=my-cocoon-block -Dversion=1.0-SNAPSHOT
